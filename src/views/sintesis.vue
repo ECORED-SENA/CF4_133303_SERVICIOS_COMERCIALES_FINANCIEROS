@@ -3,15 +3,15 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p La siguiente síntesis da cuenta de la gestión del efectivo o caja dentro de una organización, que se desarrolla a través de varios elementos esenciales para lograr la funcionalidad y la satisfacción de su naturaleza como controlar todo tipo de transferencia en cuanto al proceso que se realiza en el ejercicio y el tipo de medio de pago, de igual forma, fortalecer este proceso incorporando tecnología para la identificación y eliminación de algún riesgo que provenga de la moneda nacional o de los documentos comerciales que estén relacionados en el sector financiero.
+    p.mb-5 La custodia y protección del efectivo se debe desarrollar mediante bóvedas, cajas fuertes o sitios seguros donde se establezcan por medio de procedimientos internos de prioridad y cumplimiento con la finalidad de implementar planes de protección de los recursos financieros, siempre enmarcados bajo los lineamientos normativos aplicados por las entidades competentes financieras o de ámbito legal nacional. Resumido todo lo anterior y la temática tratada en el componente formativo se presenta el mapa:
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

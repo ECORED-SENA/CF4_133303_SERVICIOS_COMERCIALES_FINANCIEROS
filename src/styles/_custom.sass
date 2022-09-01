@@ -1,19 +1,132 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float2 7.2s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 50%
+    left: 0%
   &-2
+    animation: float1 2.4s ease-in-out infinite alternate
+    position: absolute
+    top: 50%
+    left: 10%
+  &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 15%
+    left: 5%
+  &-4
+    animation: float2 7.6s ease-in-out infinite alternate
+    position: absolute
+    top: 15%
+    left: 20%
+  &-5
+    animation: float1 3.2s ease-in-out infinite alternate
+    position: absolute
+    top: 15%
+    right: 20%
+  &-6
+    animation: float2 8.0s ease-in-out infinite alternate
+    position: absolute
+    top: 15%
+    right: 10%
+  &-7
+    animation: float2 8.4s ease-in-out infinite alternate
+    position: absolute
+    top: 50%
+    right: 0%
+  &-8
+    animation: float1 3.6s ease-in-out infinite alternate
+    position: absolute
+    bottom: 21%
+    right: 20%
+  &-9
+    animation: float2 8.8s ease-in-out infinite alternate
+    position: absolute
+    bottom: 14%
+    right: 18%
 
 
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
+  
+@keyframes float2
+  0%
+    transform: translateX(12px)
+  100%
+    transform: translateX(0px)
+
+.slyder-a__bullets__item
+  background-color: #FDAB64
+
+.slyder-a__bullets__item--active
+  background-color: #FC8116
+
+.BGR01
+  background-color: #E1F3D7
+  border-radius: 15px
+
+.BG02
+  background-color: #FFF7DF
+
+.BGR03
+  background-color: #F6FBD1
+  border-radius: 15px
+
+.BG04
+  background-color: #C2E8B0
+
+.BGR04
+  background-color: #C2E8B0
+  border-radius: 15px
+
+.BGR05
+  background-color: #FEE89F
+  border-radius: 15px
+
+.BGR06
+  background-color: #A4DC88
+  border-radius: 10px
+
+.BGR07
+  background-color: #FEC08A
+  border-radius: 10px
+
+.BG08
+  background-color: #E4F476
+
+.BGIMG01
+  background-image: url("../assets/curso/tema1/img20.png")
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.img01
+  position: absolute
+  right: 140px
+  @media (max-width: $bp-max-sm)
+   position: inherit
+   right: 0px
+  
+.img02 .tarjeta-avatar-b__img
+  min-width: 25%
+  max-width: 25%
+  @media (max-width: $bp-max-sm)
+    min-width: 15%
+    max-width: 15%
+
+.img03
+  position: relative
+  bottom: -32px
+
+.img04
+  position: absolute
+  left: 15.5%
+  @media (max-width: $bp-max-sm)
+   position: inherit
+   left: 0
+
+.tarjeta-avatar-b__img
+  left: 15px

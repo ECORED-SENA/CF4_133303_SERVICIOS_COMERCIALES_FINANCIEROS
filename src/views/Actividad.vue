@@ -10,7 +10,7 @@
             img(src="@/assets/template/seleccion-multiple.png")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Gestión del efectivo y sus características.
+          h2 Gestión del efectivo y sus características
         p.mb-4 Reconocer la contextualización en relación con el manejo del efectivo enmarcado en la normatividad vigente.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

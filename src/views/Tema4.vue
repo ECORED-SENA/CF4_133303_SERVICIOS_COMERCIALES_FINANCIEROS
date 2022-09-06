@@ -163,6 +163,15 @@
             tr
               th(colspan="4") BANCO PICHINCHA S.A.
               td(colspan="1") 60
+            tr
+              th(colspan="4") BANCOOMEVA
+              td(colspan="1") 61
+            tr
+              th(colspan="4") CMR FALABELLA S.A.
+              td(colspan="1") 62
+            tr
+              th(colspan="4") BANCO FINANDINA S.A.
+              td(colspan="1") 63
 
 </template>
 

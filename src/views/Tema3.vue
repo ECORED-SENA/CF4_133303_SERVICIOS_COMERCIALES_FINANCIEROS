@@ -8,7 +8,7 @@
       h1 Manejo de cheques
     
     p Los procedimientos de emisión de cheques son uno de los más fáciles de administrar y uno de los más críticos, ya que a menudo tiene el mayor margen de error y potencialmente, de fraude. 
-    p Es convenie nte conocer el procedimiento, así:
+    p Es conveniente conocer el procedimiento, así:
 
     figure.mb-4(data-aos="zoom-in")
       img(src='@/assets/curso/tema3/img01.svg')
@@ -81,7 +81,7 @@
       .col-md-7
         p Un cheque es un documento que puede emitir al banco, indicando que pague la suma especificada mencionada en dígitos y palabras a la persona cuyo nombre figura en el cheque.
         p Los cheques también se denominan instrumentos negociables. En términos bancarios, un instrumento negociable es un documento que promete a su portador el pago de la cantidad especificada, ya sea al entregar el documento al banquero o en una fecha determinada.
-        p La cantidad de tipos de cheques en uso depende de elementos como quién es el emisor y quién es el librado.
+        p.mb-0 La cantidad de tipos de cheques en uso depende de elementos como quién es el emisor y quién es el librado.
 
     p Observe  detenidamente los tipos de cheques:
   
@@ -90,33 +90,33 @@
         figure
           img(src='@/assets/curso/tema3/img13.png')
       .BGR05.p-3(x="73%" y="35%" numero="1")
-        .h4.mb-2 1. Cheque al portador:
-        p es aquel en el cual el pago se hace a la persona que lleva el cheque. Estos cheques son transferibles por entrega, es decir, si lleva el cheque al banco se le puede emitir el pago. Los bancos no necesitan ninguna otra autorización del emisor para poder realizar el pago.
+        .h4.mb-2 1. Cheque al portador
+        p Es aquel en el cual el pago se hace a la persona que lleva el cheque. Estos cheques son transferibles por entrega, es decir, si lleva el cheque al banco se le puede emitir el pago. Los bancos no necesitan ninguna otra autorización del emisor para poder realizar el pago.
         p.mb-0 #[strong ¿Cómo identificar un cheque al portador?] Sabe que es un cheque al portador cuando ve las palabras “o al portador" impresas en este.
       .BGR05.p-3(x="17.5%" y="46%" numero="2")
-        .h4.mb-2 2. Comprobación del pedido:
-        p.mb-0 en estos cheques las palabras "o al portador" están canceladas. Dichos cheques solo se pueden emitir a nombre de la persona cuyo nombre se menciona en el cheque, y el banco realizará una verificación de antecedentes para autenticar la identidad del portador del cheque antes de liberar el pago.
+        .h4.mb-2 2. Comprobación del pedido
+        p.mb-0 En estos cheques las palabras "o al portador" están canceladas. Dichos cheques solo se pueden emitir a nombre de la persona cuyo nombre se menciona en el cheque, y el banco realizará una verificación de antecedentes para autenticar la identidad del portador del cheque antes de liberar el pago.
       .BGR05.p-3(x="73%" y="46%" numero="3")
-        .h4.mb-2 3. Cheque cruzado: 
-        p.mb-0 es posible que haya observado cheques con dos líneas paralelas inclinadas con las palabras "beneficiario a/c" escritas en la parte superior izquierda, so es un cheque cruzado. Las líneas aseguran que, independientemente de quién presente el cheque, el pago solo se realizará a la persona cuyo nombre está escrito en el cheque, en otras palabras, el beneficiario del a/c junto con el número de cuenta. Estos cheques son relativamente seguros porque solo se pueden cobrar en el banco del librado.
+        .h4.mb-2 3. Cheque cruzado 
+        p.mb-0 Es posible que haya observado cheques con dos líneas paralelas inclinadas con las palabras "beneficiario a/c" escritas en la parte superior izquierda, so es un cheque cruzado. Las líneas aseguran que, independientemente de quién presente el cheque, el pago solo se realizará a la persona cuyo nombre está escrito en el cheque, en otras palabras, el beneficiario del a/c junto con el número de cuenta. Estos cheques son relativamente seguros porque solo se pueden cobrar en el banco del librado.
       .BGR05.p-3(x="22%" y="54.5%" numero="4")
-        .h4.mb-2 4. Cheque abierto:
-        p.mb-0 es básicamente un cheque sin cruzar. Este cheque se puede cobrar en cualquier banco y el pago se puede hacer a la persona que lleva el cheque. Este cheque es transferible del beneficiario original (el destinatario original del pago) a otro beneficiario también. El emisor debe poner la firma tanto en el anverso como en el reverso del cheque.
+        .h4.mb-2 4. Cheque abierto
+        p.mb-0 Es básicamente un cheque sin cruzar. Este cheque se puede cobrar en cualquier banco y el pago se puede hacer a la persona que lleva el cheque. Este cheque es transferible del beneficiario original (el destinatario original del pago) a otro beneficiario también. El emisor debe poner la firma tanto en el anverso como en el reverso del cheque.
       .BGR05.p-3(x="17.5%" y="62.5%" numero="5")
-        .h4.mb-2 5. Cheque posfechado:
-        p.mb-0 este tipo de cheques tienen una fecha posterior de cobro. Incluso si el portador presenta este cheque al banco inmediatamente después de recibirlo, el banco solo procederá el pago en la fecha mencionada en el cheque. Este cheque es válido después de la fecha mencionada, pero no antes.
+        .h4.mb-2 5. Cheque posfechado
+        p.mb-0 Este tipo de cheques tienen una fecha posterior de cobro. Incluso si el portador presenta este cheque al banco inmediatamente después de recibirlo, el banco solo procederá el pago en la fecha mencionada en el cheque. Este cheque es válido después de la fecha mencionada, pero no antes.
       .BGR05.p-3(x="78.5%" y="54.5%" numero="6")
-        .h4.mb-2 6. Cheque vencido:
-        p.mb-0 tres meses después de la fecha de emisión se denomina cheque vencido.
+        .h4.mb-2 6. Cheque vencido
+        p.mb-0 Tres meses después de la fecha de emisión se denomina cheque vencido.
       .BGR05.p-3(x="47%" y="65%" numero="7")
-        .h4.mb-2 7. Cheque de viajero: 
-        p.mb-0 los extranjeros de vacaciones llevan cheques de viajero en lugar de dinero en efectivo, lo que puede ser engorroso. Estos cheques son emitidos por un banco y pueden cobrarse en forma de moneda en un banco ubicado en otro lugar o país. Los cheques de viajero no caducan y pueden utilizarse en futuros viajes.
+        .h4.mb-2 7. Cheque de viajero 
+        p.mb-0 Los extranjeros de vacaciones llevan cheques de viajero en lugar de dinero en efectivo, lo que puede ser engorroso. Estos cheques son emitidos por un banco y pueden cobrarse en forma de moneda en un banco ubicado en otro lugar o país. Los cheques de viajero no caducan y pueden utilizarse en futuros viajes.
       .BGR05.p-3(x="58%" y="70.5%" numero="8")
-        .h4.mb-2 8. Autocomprobación: 
-        p.mb-0 puede identificar los autocheques por la palabra "auto" escrita en la columna girada. Los autocheques solo se pueden girar en el banco del emisor.
+        .h4.mb-2 8. Autocomprobación 
+        p.mb-0 Puede identificar los autocheques por la palabra "auto" escrita en la columna girada. Los autocheques solo se pueden girar en el banco del emisor.
       .BGR05.p-3(x="52%" y="76.5%" numero="9")
-        .h4.mb-2 9. Cheque bancario:
-        p.mb-0 un banco es el emisor de este tipo de cheques. El banco emite estos cheques a nombre del titular de una cuenta para hacer una remesa a otra persona en la misma ciudad. Aquí, el monto especificado se debita de la cuenta del cliente y luego, el banco emite el cheque.
+        .h4.mb-2 9. Cheque bancario
+        p.mb-0 Un banco es el emisor de este tipo de cheques. El banco emite estos cheques a nombre del titular de una cuenta para hacer una remesa a otra persona en la misma ciudad. Aquí, el monto especificado se debita de la cuenta del cliente y luego, el banco emite el cheque.
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")

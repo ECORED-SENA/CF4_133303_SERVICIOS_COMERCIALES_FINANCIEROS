@@ -20,19 +20,19 @@
           .col-md-4.col-8.mb-md-0.mb-4
             img(src='@/assets/curso/tema2/img02.png')
           .col-md-8
-            .h4 La cinta de seguridad.
+            .h4 La cinta de seguridad
       .col-md-4.col-10.mb-md-0.mb-4.px-3
         .row.justify-content-center.align-items-center.BGR03.p-4(data-aos="zoom-in")
           .col-md-4.col-8.mb-md-0.mb-4
             img(src='@/assets/curso/tema2/img03.png')
           .col-md-8
-            .h4 La marca de agua.
+            .h4 La marca de agua
       .col-md-4.col-10.mb-md-0.mb-4.px-3
         .row.justify-content-center.align-items-center.BGR03.p-4(data-aos="fade-left")
           .col-md-4.col-8.mb-md-0.mb-4
             img(src='@/assets/curso/tema2/img04.png')
           .col-md-8
-            .h4.mb-0 Las imágenes combinadas y una imagen que cambia de color y tiene un efecto de movimiento.          
+            .h4.mb-0 Las imágenes combinadas y una imagen que cambia de color y tiene un efecto de movimiento         
 
     .BGIMG01.p-4.mb-5.mt-5(data-aos="fade-right")
       .row.justify-content-start.align-items-center
@@ -44,7 +44,7 @@
               p #[strong Mirar]: estudie las imágenes y los colores del billete.
             li
               <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
-              p #[strong Toque]: sienta el alto relieve de algunas imágenes y textos
+              p #[strong Toque]: sienta el alto relieve de algunas imágenes y textos.
             li
               <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
               p #[strong Levantar]: sostenga el billete a contraluz y vea las imágenes.

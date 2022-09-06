@@ -9,11 +9,14 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-md-4.col-8.mb-md-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img01.png')
+        figure.mb-4
+          img(src='@/assets/curso/tema1/img01.png')
       .col-md-8
         p Implican el intercambio de efectivo por un activo. Debido a que el intercambio es inmediato el vendedor no asume ningún riesgo crediticio de que el comprador no pague, como sería el caso si se le concediera un crédito al comprador. Las transacciones en efectivo son más comunes para transacciones minoristas más pequeñas.
         p No existe el riesgo de que surja una deuda incobrable a partir de una transacción en efectivo, mientras que este es un riesgo siempre presente cuando se utilizan transacciones de crédito en su lugar.
-        p Las transacciones en efectivo pueden estar orientadas al consumidor o al negocio, contrasta con otros modos de pago como las transacciones de crédito en un negocio que involucra efectos por cobrar. Del mismo modo, una transacción en efectivo también es diferente de las transacciones con tarjeta de crédito.
+        p.mb-0 Las transacciones en efectivo pueden estar orientadas al consumidor o al negocio, contrasta con otros modos de pago como las transacciones de crédito en un negocio que involucra efectos por cobrar. Del mismo modo, una transacción en efectivo también es diferente de las transacciones con tarjeta de crédito.
+      .col-12
+        p.mb-0 Un ejemplo de una transacción en efectivo es entrar a una tienda comprar ropa y pagar con una tarjeta débito. Un pago con tarjeta débito es lo mismo que un pago inmediato en efectivo, ya que el monto se debita instantáneamente de la cuenta bancaria; sin embargo, los pagos con tarjeta de crédito no tienen el mismo efecto para el comprador.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-7.order-md-1.order-2
@@ -118,7 +121,7 @@
         .row.justify-content-center.align-items-center
           .col-md-5.col-11.order-md-1.order-2
             .h4 Creación del Banco de la República
-            p En 1880 el presidente del país, Rafael Núñez, creó el Banco de la República de Colombia, que tenía, entre otras funciones, la tarea de imprimir el papel moneda, que a partir de 1888 sufrió una acelerada inflación. Después de la Primera Guerra Mundial,¿ el país sufrió una serie de problemas monetarios, lo que llevó al presidente Pedro Nel Ospina a pedir consejo económico a los Estados Unidos de América en 1922. Los expertos estadounidenses partieron en una misión conocida como "la Misión Kemmerer". encabezada por Edwin Walter Kemmerer, bajo cuyas recomendaciones se creó en 1923 la actual autoridad emisora, El Banco de la República de Colombia.
+            p En 1880 el presidente del país, Rafael Núñez, creó el Banco de la República de Colombia, que tenía, entre otras funciones, la tarea de imprimir el papel moneda, que a partir de 1888 sufrió una acelerada inflación. Después de la Primera Guerra Mundial, el país sufrió una serie de problemas monetarios, lo que llevó al presidente Pedro Nel Ospina a pedir consejo económico a los Estados Unidos de América en 1922. Los expertos estadounidenses partieron en una misión conocida como "la Misión Kemmerer". encabezada por Edwin Walter Kemmerer, bajo cuyas recomendaciones se creó en 1923 la actual autoridad emisora, El Banco de la República de Colombia.
           .col-md-5.col-10.order-md-2.order-1.mb-md-0.mb-4
             img(src='@/assets/curso/tema1/img14.png')
         .row.justify-content-center.align-items-center
@@ -255,7 +258,7 @@
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p #[strong Enlace web]. Estos videos son la mejor manera de aprender a diferenciar entre un billete de 100 mil falso.
+                p #[strong Enlace <em>web</em>]. Estos videos son la mejor manera de aprender a diferenciar entre un billete de 100 mil falso.
       .py-4.py-md-5(titulo="Billete 50 mil" :icono="require('@/assets/curso/tema1/img26.png')")
         .row.justify-content-center
           .col-md-7.mb-md-0.mb-4
@@ -289,7 +292,7 @@
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p #[strong Enlace web]. Estos videos son la mejor manera de aprender a diferenciar entre un billete de 50 mil falso.      
+                p #[strong Enlace <em>web</em>]. Estos videos son la mejor manera de aprender a diferenciar entre un billete de 50 mil falso.      
       .py-4.py-md-5(titulo="Billete 20 mil" :icono="require('@/assets/curso/tema1/img27.png')")
         .row.justify-content-center
           .col-md-7.mb-md-0.mb-4
@@ -322,7 +325,7 @@
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p #[strong Enlace web]. Estos videos son la mejor manera de aprender a diferenciar entre un billete de 20 mil falso.       
+                p #[strong Enlace <em>web</em>]. Estos videos son la mejor manera de aprender a diferenciar entre un billete de 20 mil falso.       
       .py-4.py-md-5(titulo="Billete 10 mil" :icono="require('@/assets/curso/tema1/img28.png')")
         .row.justify-content-center
           .col-md-7.mb-md-0.mb-4
@@ -353,7 +356,7 @@
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p #[strong Enlace web]. Estos videos son la mejor manera de aprender a diferenciar entre un billete de 10 mil falso.
+                p #[strong Enlace <em>web</em>]. Estos videos son la mejor manera de aprender a diferenciar entre un billete de 10 mil falso.
       .py-4.py-md-5(titulo="Billete 5 mil" :icono="require('@/assets/curso/tema1/img29.png')")
         .row.justify-content-center
           .col-md-7.mb-md-0.mb-4
@@ -387,7 +390,7 @@
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p #[strong Enlace web]. Estos videos son la mejor manera de aprender a diferenciar entre un billete de 5 mil falso.      
+                p #[strong Enlace <em>web</em>]. Estos videos son la mejor manera de aprender a diferenciar entre un billete de 5 mil falso.      
       .py-4.py-md-5(titulo="Billete 2 mil" :icono="require('@/assets/curso/tema1/img30.png')")
         .row.justify-content-center
           .col-md-7.mb-md-0.mb-4
@@ -418,7 +421,7 @@
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p #[strong Enlace web]. Estos videos son la mejor manera de aprender a diferenciar entre un billete de 2 mil falso.         
+                p #[strong Enlace <em>web</em>]. Estos videos son la mejor manera de aprender a diferenciar entre un billete de 2 mil falso.         
 
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")

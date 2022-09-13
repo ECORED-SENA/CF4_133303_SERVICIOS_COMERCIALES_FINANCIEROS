@@ -36,23 +36,23 @@
 
     .BGIMG01.p-4.mb-5.mt-5(data-aos="fade-right")
       .row.justify-content-start.align-items-center
-        .col-md-6.ms-5
+        .col-md-6.ms-md-5
           .h4 Formas de reconocer la autenticidad de los billetes colombianos:
           ul.lista-ul--color
             li
-              <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+              <i class="fas fa-circle" style="color:#FC8116"></i>
               p #[strong Mirar]: estudie las imágenes y los colores del billete.
             li
-              <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+              <i class="fas fa-circle" style="color:#FC8116"></i>
               p #[strong Toque]: sienta el alto relieve de algunas imágenes y textos.
             li
-              <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+              <i class="fas fa-circle" style="color:#FC8116"></i>
               p #[strong Levantar]: sostenga el billete a contraluz y vea las imágenes.
             li
-              <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+              <i class="fas fa-circle" style="color:#FC8116"></i>
               p #[strong Inclinación]: tenga en cuenta los efectos de cambio de color y el movimiento cuando se gira el billete
             li
-              <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+              <i class="fas fa-circle" style="color:#FC8116"></i>
               p.mb-0 #[strong Comprobar]: observe la fluorescencia con lámparas ultravioleta y compruebe los microtextos con una lupa.
         .col-md-4.col-8.img01(data-aos="fade-left")
           img(src='@/assets/curso/tema2/img05.jpg')
@@ -125,58 +125,60 @@
         .h4 Procedimientos que se deben aplicar en la ejecución del manejo del efectivo durante el transcurso del ejercicio:
         ul.lista-ul--color
           li
-            <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+            <i class="fas fa-circle" style="color:#FC8116"></i>
             | Los departamentos deben depositar dinero dentro de un día hábil después de la recolección o recepción de dicho dinero.
           li
-            <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+            <i class="fas fa-circle" style="color:#FC8116"></i>
             | El depósito oportuno de los dineros recibidos permite un mejor control de los fondos, lo que reduce el riesgo de pérdida por errores, descuidos o robos.
           li
-            <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+            <i class="fas fa-circle" style="color:#FC8116"></i>
             | El dinero retenido durante la noche debe estar asegurado en algún tipo de dispositivo de bloqueo como una caja fuerte o un archivador con cerradura.
           li
-            <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+            <i class="fas fa-circle" style="color:#FC8116"></i>
             | Todos los cheques deben estar debidamente endosados al recibirlos.
           li
-            <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+            <i class="fas fa-circle" style="color:#FC8116"></i>
             | No se pueden hacer gastos o devoluciones de recibos de efectivo.
           li
-            <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+            <i class="fas fa-circle" style="color:#FC8116"></i>
             | Los departamentos que depositen donaciones deben seguir los procedimientos contables detallados y no mezclar el dinero con dinero general o de automantenimiento.
 
-    .h4 El acceso a las áreas de manejo y almacenamiento de efectivo debe estar restringido físicamente al personal autorizado. Siempre que sea posible, las áreas de preparación de depósitos en efectivo deben estar restringidas, tanto física como visualmente al personal autorizado, teniendo en cuenta lo siguiente:
+    .h5 El acceso a las áreas de manejo y almacenamiento de efectivo debe estar restringido físicamente al personal autorizado. Siempre que sea posible, las áreas de preparación de depósitos en efectivo deben estar restringidas, tanto física como visualmente al personal autorizado, teniendo en cuenta lo siguiente:
 
-    PasosA.color-acento-contenido.mb-5(tipo="n")
-      .row.justify-content-center.align-items-center
-        .col-md-7.order-md-1.order-2
-          p.mb-0 Cuando no esté en uso, todo el dinero en efectivo y los artículos relacionados deben almacenarse en una caja fuerte a prueba de fuego ubicada en un área segura. Las cajas fuertes deben mantenerse cerradas con llave en todo momento, excepto cuando sea necesario el acceso de personal autorizado. Nunca se debe dejar desatendida una caja fuerte abierta, incluso durante el horario comercial.
-        .col-md-4.col-8.order-md-2.order-1.mb-md-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema2/img14.png')
-      .row.justify-content-center.align-items-center
-        .col-md-4.col-8(data-aos="fade-right")
-          img(src='@/assets/curso/tema2/img15.png')
-        .col-md-7.mb-md-0.mb-4
-          p.mb-0 La cantidad de fondos asegurados en una caja fuerte o bóveda durante la noche, durante un fin de semana o durante un feriado largo, debe mantenerse a un mínimo razonable. El exceso de fondos debe depositarse en el banco de depósito designado por la ciudad. La ciudad utiliza un servicio de vehículos blindados designado para depositar fondos.
-      .row.justify-content-center.align-items-center
-        .col-md-7.order-md-1.order-2
-          p.mb-0 Muchos cheques incluirán una advertencia de seguridad por escrito, explicando las características de seguridad del cheque. Es responsabilidad de los que manejan efectivo validar las características de seguridad.
-        .col-md-4.col-8.order-md-2.order-1.mb-md-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema2/img16.png')
-      .row.justify-content-center.align-items-center
-        .col-md-4.col-8(data-aos="fade-right")
-          img(src='@/assets/curso/tema2/img17.png')
-        .col-md-7.mb-md-0.mb-4
-          p La mayoría de los cheques personales tendrán una microimpresión en la línea de la firma que se puede identificar con una lupa.
-          p.mb-0 Asegurar existencias de cheques.
-      .row.justify-content-center.align-items-center
-        .col-md-7.order-md-1.order-2
-          p.mb-0 El inventario de cheques y el equipo de protección de cheques deben almacenarse en un área segura con acceso controlado.
-        .col-md-4.col-8.order-md-2.order-1.mb-md-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema2/img18.png')
-      .row.justify-content-center.align-items-center
-        .col-md-4.col-8(data-aos="fade-right")
-          img(src='@/assets/curso/tema2/img19.png')
-        .col-md-7.mb-md-0.mb-4
-          p.mb-0 Utilice cheques con funciones de prevención de fraude como marcas de agua, microimpresión, colores pastel degradados en el fondo, papel sensible al calor, etc.
+    .row.justify-content-center.mb-5
+      .col-md-10
+        PasosA.color-acento-contenido.mb-5(tipo="n")
+          .row.justify-content-center.align-items-center
+            .col-md-7.order-md-1.order-2
+              p.mb-0 Cuando no esté en uso, todo el dinero en efectivo y los artículos relacionados deben almacenarse en una caja fuerte a prueba de fuego ubicada en un área segura. Las cajas fuertes deben mantenerse cerradas con llave en todo momento, excepto cuando sea necesario el acceso de personal autorizado. Nunca se debe dejar desatendida una caja fuerte abierta, incluso durante el horario comercial.
+            .col-md-4.col-8.order-md-2.order-1.mb-md-0.mb-4(data-aos="fade-left")
+              img(src='@/assets/curso/tema2/img14.png')
+          .row.justify-content-center.align-items-center
+            .col-md-4.col-8.mb-4(data-aos="fade-right")
+              img(src='@/assets/curso/tema2/img15.png')
+            .col-md-7.mb-md-0
+              p.mb-0 La cantidad de fondos asegurados en una caja fuerte o bóveda durante la noche, durante un fin de semana o durante un feriado largo, debe mantenerse a un mínimo razonable. El exceso de fondos debe depositarse en el banco de depósito designado por la ciudad. La ciudad utiliza un servicio de vehículos blindados designado para depositar fondos.
+          .row.justify-content-center.align-items-center
+            .col-md-7.order-md-1.order-2
+              p.mb-0 Muchos cheques incluirán una advertencia de seguridad por escrito, explicando las características de seguridad del cheque. Es responsabilidad de los que manejan efectivo validar las características de seguridad.
+            .col-md-4.col-8.order-md-2.order-1.mb-md-0.mb-4(data-aos="fade-left")
+              img(src='@/assets/curso/tema2/img16.png')
+          .row.justify-content-center.align-items-center
+            .col-md-4.col-8.mb-4(data-aos="fade-right")
+              img(src='@/assets/curso/tema2/img17.png')
+            .col-md-7.mb-md-0
+              p La mayoría de los cheques personales tendrán una microimpresión en la línea de la firma que se puede identificar con una lupa.
+              p.mb-0 Asegurar existencias de cheques.
+          .row.justify-content-center.align-items-center
+            .col-md-7.order-md-1.order-2
+              p.mb-0 El inventario de cheques y el equipo de protección de cheques deben almacenarse en un área segura con acceso controlado.
+            .col-md-4.col-8.order-md-2.order-1.mb-md-0.mb-4(data-aos="fade-left")
+              img(src='@/assets/curso/tema2/img18.png')
+          .row.justify-content-center.align-items-center
+            .col-md-4.col-8.mb-4(data-aos="fade-right")
+              img(src='@/assets/curso/tema2/img19.png')
+            .col-md-7.mb-md-0
+              p.mb-0 Utilice cheques con funciones de prevención de fraude como marcas de agua, microimpresión, colores pastel degradados en el fondo, papel sensible al calor, etc.
 
     .h4.mb-5(data-aos="fade-right") <span style="background-color:#FC8116 !important; color:#FC8116 !important;">oo</span> Topes
 

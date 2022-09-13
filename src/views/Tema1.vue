@@ -215,7 +215,7 @@
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema1/img23.png' alt='AvatarTop')
           .BG02.p-4
-            .h4.mb-0.ms-3 La nueva serie de billetes tiene muchas características de seguridad contra la falsificación; estos incluyen marcas de agua, fibras fluorescentes y tinta, efectos de color y movimiento, texto en relieve y braille.
+            .h5.mb-0.ms-3 La nueva serie de billetes tiene muchas características de seguridad contra la falsificación; estos incluyen marcas de agua, fibras fluorescentes y tinta, efectos de color y movimiento, texto en relieve y braille.
       .col-md-4.col-8.order-md-2.order-1.mb-md-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img24.png')
 
@@ -233,19 +233,19 @@
                 p Lleras se desempeñó como presidente de Colombia de 1966 a 1970. Es mejor conocido por alentar la unión económica en América Latina durante la década de 1960 y desempeñó un papel clave en la redacción del Pacto Andino, un acuerdo que consolidó el comercio entre Venezuela, Colombia, Perú, Bolivia y Chile.
             ul.lista-ul--color
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | El anverso del billete también tiene una imagen de la flor sietecueros.
               li 
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | El reverso del billete de $100,000 presenta el Valle de Cocora, un valle en el departamento del Quindío, así como el árbol nacional de Colombia, la palmera de cera.
               li 
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | A ambos lados del billete se aprecia la imagen de un ave barranquera.
               li 
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | El billete de $100,000 es predominantemente de color verde y con un tamaño de 153 x 56 mm, es el billete más grande en circulación.
               li 
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | Este billete no se usa comúnmente en Colombia para las transacciones diarias. La mayoría de las tiendas no los aceptarán. Es demasiado dinero para que pierdan si uno resulta ser falso.
           .col-md-4.col-8
             figure.mb-4
@@ -270,16 +270,16 @@
                 p García Márquez ganó un Premio Nobel de Literatura en 1982 y es considerado uno de los autores más importantes del Siglo XX. Es mejor conocido por su libro de 1967 “Cien años de soledad” y por popularizar el estilo literario del realismo mágico.
             ul.lista-ul--color
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | El anverso del billete también tiene la imagen de un colibrí alimentándose de una flor.
               li 
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | El reverso del billete de $50.000 presenta dibujos de indígenas y viviendas de la cultura Tayrona en la Ciudad Perdida de la Sierra Nevada de Santa Marta.
               li 
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | Se puede ver un caracol burgao en ambos lados del pico.
               li 
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | El valor del billete de $50.000 en dólares estadounidenses es de aproximadamente $14,95 (asumiendo que está cambiando dólares a pesos colombianos a una tasa de cambio de $1 USD = $3347 COP. Ver XE para la tasa de cambio actual).
           .col-md-4.col-8
             figure.mb-4
@@ -302,17 +302,17 @@
               .col-md-9
                 ul.lista-ul--color
                   li
-                    <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                    <i class="fas fa-circle" style="color:#FC8116"></i>
                     | El anverso del billete también tiene la imagen de una anona o anón.
                   li
-                    <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                    <i class="fas fa-circle" style="color:#FC8116"></i>
                     | El reverso del billete de $20,000 presenta imágenes de los canales de Mojana en el norte de Colombia, donde se cree que vivió el pueblo precolombino Zenú entre el 200 a. C. y el 1600-d. También hay imágenes de un campesino que lleva un bastón Arrow y un sombrero vueltiao.
             ul.lista-ul--color
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | El poema alusivo al sombrero, escrito por Benjamín Puche Villadiego, está escrito en microtexto en el banco del billete.
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | Hay una imagen de un sombrero como se vería directamente desde arriba a ambos lados del billete.
           .col-md-4.col-8
             figure.mb-4
@@ -337,13 +337,13 @@
                 p Gutiérrez fue nombrada Mujer del Año en Colombia en 1967 y desde entonces ha recibido numerosos premios y medallas por sus aportes a la cultura colombiana. La Doctora Gutiérrez celebró su 98 cumpleaños el 4 de noviembre de 2019.
             ul.lista-ul--color
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | El reverso del billete presenta el paisaje de la región amazónica en el que un río se convierte en serpiente. La escena también contiene un dibujo de un hombre pescando en una canoa, así como varias imágenes de la vida acuática.
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | En ambos lados del billete se puede ver una ilustración de la flor de la Victoria Regia.
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | El valor del billete de $10.000 en dólares estadounidenses es de aproximadamente 2,5 USD.
           .col-md-4.col-8
             figure.mb-4
@@ -368,16 +368,16 @@
                 p Nacido en 1865, Silva es el poeta más famoso de Colombia. Es mejor conocido por contribuir con una especie de lirismo deprimente a la poesía hispanoamericana, y su escritura refleja la vida difícil que vivió. Silva se suicidó, su obra fue recopilada y publicada póstumamente.
             ul.lista-ul--color
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | El anverso del billete también muestra una planta de puya, impresa en tinta de cobre, que cambia a verde cuando se inclina a la luz.
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | El reverso del billete exalta los páramos colombianos y los frailejones, arbustos perennes que forman parte de la familia del girasol.
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | 	El reverso del billete también presenta ilustraciones de un cóndor andino, un oso de anteojos y el poema “Melancolía” de José Asunción Silva.
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | A ambos lados del billete se puede ver la imagen de un abejorro.
           .col-md-4.col-8
             figure.mb-4
@@ -402,13 +402,13 @@
                 p Nacida en Medellín, Arango es conocida internacionalmente por su obra de arte provocativa y políticamente cargada que a menudo refleja los males sociales de la sociedad colombiana. Aunque su trabajo fue a menudo recibido con críticas y fue fuente de gran controversia, ahora es celebrada como una de las artistas más importantes de Colombia. En 2003, Arango recibió la Orden de Boyacá, el más alto honor otorgado a oficiales militares o civiles en Colombia. Arango tenía 98 años cuando murió en 2005.
             ul.lista-ul--color
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | El anverso del billete de $2,000 también presenta una representación digital del ave de la pintura “Las monjas y el cardenal”.
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | El reverso del billete destaca Caño Cristales (el río de los cinco colores), que se encuentra en la Serranía de la Macarena, provincia del Meta. A veces llamado “el arcoíris líquido”, Caño Cristales es considerado por muchos como “el río más hermoso del mundo”. La revista National Geographic ha llamado a Caño Cristales “el río que se escapó del paraíso”.
               li
-                <i class="fas fa-money-bill-wave" style="color:#529D2E"></i>
+                <i class="fas fa-circle" style="color:#FC8116"></i>
                 | Con un tamaño de 128 x 66 mm el billete de $2,000 es el más pequeño en circulación.
           .col-md-4.col-8
             figure.mb-4

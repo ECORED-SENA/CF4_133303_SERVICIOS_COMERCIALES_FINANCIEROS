@@ -68,7 +68,7 @@
       .row.justify-content-center(titulo="No requiere aceptación y sello")
         .col-md-6.order-md-1.order-2
           p A diferencia de una letra de cambio, el cheque no requiere aceptación por parte del girado; sin embargo, existe una costumbre entre los bancos de marcar los cheques como "buenos" a los efectos de compensación. Pero esta marca no es una aceptación, del mismo modo, no es necesario colocar un sello fiscal en los cheques.
-        .col-md-5.col-10.order-md-2.order-1
+        .col-md-5.col-10.order-md-2.order-1.mb-md-0.mb-4
           img(src='@/assets/curso/tema3/img11.png')
 
     separador

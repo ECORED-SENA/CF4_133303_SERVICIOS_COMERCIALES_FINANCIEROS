@@ -69,42 +69,42 @@
     
     .h4.mb-5(data-aos="fade-right") <span style="background-color:#FC8116 !important; color:#FC8116 !important;">oo</span> ¿Cómo funcionan los servicios de cambio de cheques?
 
-    .row.justify-content-center.mb-5
-      .col-md-6.order-md-1.order-2
+    .row.justify-content-center.align-items-center.mb-5
+      .col-md-7.order-md-1.order-2
         p Si tiene un cheque de pago o un cheque del gobierno, como un cheque del Seguro Social, los servicios de cambio de cheques verificarán la identidad, cobrarán el cheque y le darán el dinero de inmediato, menos una tarifa. En lugar de depositar el cheque en una cuenta bancaria o cooperativa de crédito, sale de la tienda de cambio de cheques con efectivo inmediato. Algunos servicios también ofrecen tarjetas prepago.
-        p Cuando deposita un cheque en el banco es posible que el cheque tarde algunos días hábiles en cobrarse. La disponibilidad de fondos para cheques depende del método de depósito. Si se encuentra en una situación financiera difícil es posible que desee acceder al efectivo más rápidamente. Los servicios de cambio de cheques ofrecen efectivo inmediato el mismo día, sin esperar a que el sistema bancario apruebe el cheque.
+        p.mb-0 Cuando deposita un cheque en el banco es posible que el cheque tarde algunos días hábiles en cobrarse. La disponibilidad de fondos para cheques depende del método de depósito. Si se encuentra en una situación financiera difícil es posible que desee acceder al efectivo más rápidamente. Los servicios de cambio de cheques ofrecen efectivo inmediato el mismo día, sin esperar a que el sistema bancario apruebe el cheque.
       .col-md-5.col-10.order-md-2.order-1.mb-md-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema4/img04.png')
 
     .row.justify-content-center.mb-5
-      .col-md-8.BG08.p-4(data-aos="fade-left")
-        .row.justify-content-end.align-items-center
-          .col-md-2.col-4.img04(data-aos="zoom-in")
-            img(src='@/assets/curso/tema4/img05.png')
+      .col-md-10.col-lg-8.BG08.p-4(data-aos="fade-left")
+        .row.justify-content-center.align-items-center
+          .col-md-2.col-4.mb-md-0.mb-4(data-aos="zoom-in")
+            img.img04(src='@/assets/curso/tema4/img05.png')
           .col-md-9
-            .h4 Tenga en cuenta que los servicios de cambio de cheques cobran tarifas por procesar cheques y deben revelar estas tarifas por adelantado. Las tarifas varían según la compañía, el estado, el tipo de cheque y el monto del cheque.
+            .h5.mb-0 Tenga en cuenta que los servicios de cambio de cheques cobran tarifas por procesar cheques y deben revelar estas tarifas por adelantado. Las tarifas varían según la compañía, el estado, el tipo de cheque y el monto del cheque.
 
     p Algunas personas viven en vecindarios que no tienen sucursales bancarias físicas, y otras personas necesitan la comodidad de cobrar un cheque fuera del horario bancario habitual. 
     p Muchos servicios de cambio de cheques están ubicados en vecindarios con pocos bancos y están abiertos hasta tarde, algunos están abiertos 24/7.
 
     .h4.mb-5(data-aos="fade-right") <span style="background-color:#FC8116 !important; color:#FC8116 !important;">oo</span> ¿Cómo funciona la compensación de cheques?
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.align-items-end.mb-4
       .col-md-5.col-10.mb-md-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema4/img06.png')
       .col-md-6
         p Debe acudir a la entidad bancaria para cobrar un cheque cuando se encuentre habilitado, mediante la fecha que se le asigna. Aunque el banco le entregue la cantidad de dinero que indica el cheque, esta acción no da muestra de que el cheque haya sido compensado. La entidad que recibe el cheque es la responsable de tramitar dicha compensación a cargo del otro banco.
-        p Entonces, el cheque se considera compensado una vez que la entidad bancaria emisora lo verifica, contrasta la información y finalmente aprueba el pago previa comprobación de que en la cuenta bancaria de la persona o empresa que ha extendido el cheque se cuenta con los fondos necesarios para poder hacer el abono. En este momento, cuando el cheque ya está comprobado, el dinero puede ser transferido al banco acreedor. Aunque esta operación puede parecer inmediata, la compensación de cheques al día de hoy puede demorar algunos días.
+        p.mb-0 Entonces, el cheque se considera compensado una vez que la entidad bancaria emisora lo verifica, contrasta la información y finalmente aprueba el pago previa comprobación de que en la cuenta bancaria de la persona o empresa que ha extendido el cheque se cuenta con los fondos necesarios para poder hacer el abono. En este momento, cuando el cheque ya está comprobado, el dinero puede ser transferido al banco acreedor. Aunque esta operación puede parecer inmediata, la compensación de cheques al día de hoy puede demorar algunos días.
 
     separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.3.	Manejo de códigos
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4
       .col-md-2.col-4.mb-md-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema4/img07.png')
       .col-md-10
-        p El sistema bancario es un conjunto de instituciones que se encargan de manejar y almacenar el dinero de los usuarios, ofreciendo seguridad, comodidad y una amplia variedad de servicios y productos bancarios con la finalidad de facilitar y orientar el manejo de las finanzas para obtener utilidades por ello. Para identificarse uno con otro, las entidades bancarias se reconocen con códigos que no se repiten para establecer claramente la identidad de cada uno. A continuación se relacionan los códigos a través de los cuales se identifica cada banco en Colombia:
+        p.mb-0 El sistema bancario es un conjunto de instituciones que se encargan de manejar y almacenar el dinero de los usuarios, ofreciendo seguridad, comodidad y una amplia variedad de servicios y productos bancarios con la finalidad de facilitar y orientar el manejo de las finanzas para obtener utilidades por ello. Para identificarse uno con otro, las entidades bancarias se reconocen con códigos que no se repiten para establecer claramente la identidad de cada uno. A continuación se relacionan los códigos a través de los cuales se identifica cada banco en Colombia:
     
     .row.justify-content-center.align-items-end.mb-4
       .col-md-5.col-10.mb-md-0.mb-4.px-0(data-aos="fade-right")

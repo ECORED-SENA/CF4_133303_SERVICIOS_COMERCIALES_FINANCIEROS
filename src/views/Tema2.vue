@@ -40,19 +40,19 @@
           .h4 Formas de reconocer la autenticidad de los billetes colombianos:
           ul.lista-ul--color
             li
-              <i class="fas fa-circle" style="color:#FC8116"></i>
+              <i class="fas fa-circle" style="color:#FC8116; font-size: small;"></i>
               p #[strong Mirar]: estudie las imágenes y los colores del billete.
             li
-              <i class="fas fa-circle" style="color:#FC8116"></i>
+              <i class="fas fa-circle" style="color:#FC8116; font-size: small;"></i>
               p #[strong Toque]: sienta el alto relieve de algunas imágenes y textos.
             li
-              <i class="fas fa-circle" style="color:#FC8116"></i>
+              <i class="fas fa-circle" style="color:#FC8116; font-size: small;"></i>
               p #[strong Levantar]: sostenga el billete a contraluz y vea las imágenes.
             li
-              <i class="fas fa-circle" style="color:#FC8116"></i>
+              <i class="fas fa-circle" style="color:#FC8116; font-size: small;"></i>
               p #[strong Inclinación]: tenga en cuenta los efectos de cambio de color y el movimiento cuando se gira el billete
             li
-              <i class="fas fa-circle" style="color:#FC8116"></i>
+              <i class="fas fa-circle" style="color:#FC8116; font-size: small;"></i>
               p.mb-0 #[strong Comprobar]: observe la fluorescencia con lámparas ultravioleta y compruebe los microtextos con una lupa.
         .col-md-4.col-8.img01(data-aos="fade-left")
           img(src='@/assets/curso/tema2/img05.jpg')
@@ -125,22 +125,22 @@
         .h4 Procedimientos que se deben aplicar en la ejecución del manejo del efectivo durante el transcurso del ejercicio:
         ul.lista-ul--color
           li
-            <i class="fas fa-circle" style="color:#FC8116"></i>
+            <i class="fas fa-circle" style="color:#FC8116; font-size: small;"></i>
             | Los departamentos deben depositar dinero dentro de un día hábil después de la recolección o recepción de dicho dinero.
           li
-            <i class="fas fa-circle" style="color:#FC8116"></i>
+            <i class="fas fa-circle" style="color:#FC8116; font-size: small;"></i>
             | El depósito oportuno de los dineros recibidos permite un mejor control de los fondos, lo que reduce el riesgo de pérdida por errores, descuidos o robos.
           li
-            <i class="fas fa-circle" style="color:#FC8116"></i>
+            <i class="fas fa-circle" style="color:#FC8116; font-size: small;"></i>
             | El dinero retenido durante la noche debe estar asegurado en algún tipo de dispositivo de bloqueo como una caja fuerte o un archivador con cerradura.
           li
-            <i class="fas fa-circle" style="color:#FC8116"></i>
+            <i class="fas fa-circle" style="color:#FC8116; font-size: small;"></i>
             | Todos los cheques deben estar debidamente endosados al recibirlos.
           li
-            <i class="fas fa-circle" style="color:#FC8116"></i>
+            <i class="fas fa-circle" style="color:#FC8116; font-size: small;"></i>
             | No se pueden hacer gastos o devoluciones de recibos de efectivo.
           li
-            <i class="fas fa-circle" style="color:#FC8116"></i>
+            <i class="fas fa-circle" style="color:#FC8116; font-size: small;"></i>
             | Los departamentos que depositen donaciones deben seguir los procedimientos contables detallados y no mezclar el dinero con dinero general o de automantenimiento.
 
     .h5 El acceso a las áreas de manejo y almacenamiento de efectivo debe estar restringido físicamente al personal autorizado. Siempre que sea posible, las áreas de preparación de depósitos en efectivo deben estar restringidas, tanto física como visualmente al personal autorizado, teniendo en cuenta lo siguiente:

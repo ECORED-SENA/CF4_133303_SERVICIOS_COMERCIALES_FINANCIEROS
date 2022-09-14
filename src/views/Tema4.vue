@@ -92,7 +92,7 @@
     .row.justify-content-center.align-items-end.mb-4
       .col-md-5.col-10.mb-md-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema4/img06.png')
-      .col-md-6
+      .col-md-7
         p Debe acudir a la entidad bancaria para cobrar un cheque cuando se encuentre habilitado, mediante la fecha que se le asigna. Aunque el banco le entregue la cantidad de dinero que indica el cheque, esta acción no da muestra de que el cheque haya sido compensado. La entidad que recibe el cheque es la responsable de tramitar dicha compensación a cargo del otro banco.
         p.mb-0 Entonces, el cheque se considera compensado una vez que la entidad bancaria emisora lo verifica, contrasta la información y finalmente aprueba el pago previa comprobación de que en la cuenta bancaria de la persona o empresa que ha extendido el cheque se cuenta con los fondos necesarios para poder hacer el abono. En este momento, cuando el cheque ya está comprobado, el dinero puede ser transferido al banco acreedor. Aunque esta operación puede parecer inmediata, la compensación de cheques al día de hoy puede demorar algunos días.
 

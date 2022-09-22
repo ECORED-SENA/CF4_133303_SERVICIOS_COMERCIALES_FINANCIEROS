@@ -10,7 +10,7 @@
       h1 Introducción
     
     p En este componente de formación se abordarán los conceptos básicos que permitirán comprender cómo consolidar las estrategias de manejo y gestión del efectivo.
-    p En el siguiente vi deo se comprende de manera genérica, así:
+    p En el siguiente video se comprende de manera genérica, así:
 
     figure.mb-5(data-aos="zoom-in")
       .video

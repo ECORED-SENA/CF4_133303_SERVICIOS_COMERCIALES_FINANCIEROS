@@ -27,7 +27,7 @@
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.1.	Medidas de seguridad de los billetes y monedas
+      h2 1.1	Medidas de seguridad de los billetes y monedas
     
     p.mb-5 Se debe aplicar los elementos de seguridad de los billetes con el fin de reconocer un billete como auténtico, estos tienen algunas características de seguridad como particularidades táctiles, nitidez, variación óptica y fluorescencia.
 
@@ -99,7 +99,7 @@
     
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2.	Características y elementos
+      h2 1.2	Características y elementos
 
     p El peso colombiano es la moneda de curso legal de Colombia, su abreviación formal es COP, localmente con el signo pesos($). Esta moneda circula en Colombia desde 1810, año en que reemplazó al real que había funcionado hasta ese momento. Su circulación es controlada por el Banco de la República de Colombia.
     p A continuación  se relata cómo fue el origen e historia:
@@ -121,7 +121,7 @@
         .row.justify-content-center.align-items-center
           .col-md-5.col-11.order-md-1.order-2
             .h4 Creación del Banco de la República
-            p En 1880 el presidente del país, Rafael Núñez, creó el Banco de la República de Colombia, que tenía, entre otras funciones, la tarea de imprimir el papel moneda, que a partir de 1888 sufrió una acelerada inflación. Después de la Primera Guerra Mundial, el país sufrió una serie de problemas monetarios, lo que llevó al presidente Pedro Nel Ospina a pedir consejo económico a los Estados Unidos de América en 1922. Los expertos estadounidenses partieron en una misión conocida como "la Misión Kemmerer". encabezada por Edwin Walter Kemmerer, bajo cuyas recomendaciones se creó en 1923 la actual autoridad emisora, El Banco de la República de Colombia.
+            p En 1880 el presidente del país, Rafael Núñez, creó el Banco de la República de Colombia, que tenía, entre otras funciones, la tarea de imprimir el papel moneda, que a partir de 1888 sufrió una acelerada inflación. Después de la Primera Guerra Mundial, el país sufrió una serie de problemas monetarios, lo que llevó al presidente Pedro Nel Ospina a pedir consejo económico a los Estados Unidos de América en 1922. Los expertos estadounidenses partieron en una misión conocida como "la Misión Kemmerer". Encabezada por Edwin Walter Kemmerer, bajo cuyas recomendaciones se creó en 1923 la actual autoridad emisora, El Banco de la República de Colombia.
           .col-md-5.col-10.order-md-2.order-1.mb-md-0.mb-4
             img(src='@/assets/curso/tema1/img14.png')
         .row.justify-content-center.align-items-center
@@ -157,7 +157,7 @@
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.3.	Protocolos de novedades en billetes
+      h2 1.3	Protocolos de novedades en billetes
     
     .BGIMG01.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-center
@@ -425,7 +425,7 @@
 
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.4.	Normatividad institucional
+      h2 1.4	Normatividad institucional
     
     p Dentro de las funciones de la banca central se encuentra la de emitir de manera exclusiva e indelegable la moneda legal colombiana, constituida por billetes y monedas metálicas. En consecuencia, realiza la producción, emisión, provisión y destrucción de especies monetarias.
     p Se destaca  lo siguiente:

@@ -19,7 +19,7 @@
 
     separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 4.1.	Contexto
+      h2 4.1	Contexto
     
     .h4.mb-5(data-aos="fade-right") <span style="background-color:#FC8116 !important; color:#FC8116 !important;">oo</span> ¿Qué son los servicios de cambio de cheques?
 
@@ -65,7 +65,7 @@
     
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 4.2.	Procedimientos
+      h2 4.2	Procedimientos
     
     .h4.mb-5(data-aos="fade-right") <span style="background-color:#FC8116 !important; color:#FC8116 !important;">oo</span> ¿Cómo funcionan los servicios de cambio de cheques?
 
@@ -98,7 +98,7 @@
 
     separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 4.3.	Manejo de códigos
+      h2 4.3	Manejo de códigos
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-2.col-4.mb-md-0.mb-4(data-aos="fade-right")

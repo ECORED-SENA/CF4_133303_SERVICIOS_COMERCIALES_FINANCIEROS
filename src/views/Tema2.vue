@@ -59,7 +59,7 @@
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.1.	Fajo de billetes
+      h2 2.1	Fajo de billetes
     
     p A continuación  reconocerá el proceso para organizar las monedas y principalmente los billetes de la manera más eficiente para el control en el manejo del efectivo:
 
@@ -116,7 +116,7 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2.	Efectivo en caja y en bóveda
+      h2 2.2	Efectivo en caja y en bóveda
     
     .row.justify-content-center.align-items-center.mb-4
       .col-md-4.col-8.mb-md-0.mb-4(data-aos="fade-right")
@@ -193,7 +193,7 @@
     
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.3.	Medidas de seguridad
+      h2 2.3	Medidas de seguridad
     
     .row.justify-content-center.mb-4
       .col-md-3.col-6.mb-md-0.mb-4(data-aos="fade-right")

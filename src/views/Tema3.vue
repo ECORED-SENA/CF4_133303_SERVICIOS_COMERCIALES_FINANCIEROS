@@ -15,7 +15,7 @@
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.1.	Características de documentos comerciales
+      h2 3.1	Características de documentos comerciales
     
     p Si se contextualiza de cerca la definición de un cheque, queda claro que un cheque tiene los siguientes 10 elementos o características esenciales:
 
@@ -73,7 +73,7 @@
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.2.	Formas y tipos
+      h2 3.2	Formas y tipos
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-5.col-10.mb-md-0.mb-4(data-aos="fade-right")
@@ -120,7 +120,7 @@
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.3.	Procedimientos de visación
+      h2 3.3	Procedimientos de visación
     
     p Los cheques no vienen con instrucciones y se cometen errores al escribir uno, lo que podría afectar financieramente. Pero una vez que comprenda las diferentes partes de un cheque, con seguridad se realizarán sin ningún temor al completar, recibir y depositar cheques en papel.
     p Los cheques contienen información preimpresa que es importante comprender, así como secciones en blanco que deben completarse con cuidado y precisión cada vez que se escribe un cheque.
@@ -196,7 +196,7 @@
 
     separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.4.	Seguridad y normatividad vigente
+      h2 3.4	Seguridad y normatividad vigente
 
     p.mb-5 Los lineamientos normativos que reglamentan todos los elementos del cheque están establecidos por la legislación nacional, a través de la Ley 15 del año 1916. A continuación se presenta lo más relevante: 
 
